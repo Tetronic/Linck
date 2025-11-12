@@ -1,0 +1,22 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.20.8",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.24.0"
+    },
+    "version": "1.20.0",
+    "libraryName": "appcust-hidesearchbox",
+    "libraryId": "883d59e8-7816-4451-a0fa-2498ba3908fd",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "appcust-hidesearchbox",
+    "solutionShortDescription": "appcust-hidesearchbox description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "extension",
+    "extensionType": "ApplicationCustomizer"
+  }
+}

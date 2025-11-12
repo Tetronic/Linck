@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <CustomAction
+        Title="Hidesearchbox"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ClientSideComponentId="1e790094-d65f-45cf-b1b7-9ead2de24011"
+        ClientSideComponentProperties="{&quot;testMessage&quot;:&quot;Test message&quot;}">
+    </CustomAction>
+</Elements>
