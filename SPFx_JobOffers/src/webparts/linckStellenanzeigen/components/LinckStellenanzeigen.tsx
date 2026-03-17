@@ -46,7 +46,7 @@ export default class LinckStellenanzeigen extends React.Component<ILinckStellena
 
       return (
         <div id="headerStartPage">
-          <h1>Stellenangebote</h1>
+          <h2 style={{fontSize: "20px", fontWeight: "600"}}>Stellenangebote</h2>
           <ul aria-live="polite">
             
             {
@@ -55,7 +55,7 @@ export default class LinckStellenanzeigen extends React.Component<ILinckStellena
                   <li className='linckJobOffersLink'>
                     <a href={offer.jobPublicationURL} target="_blank" style={{color: "black"}}>
                       <div>
-                        <h3>{offer.position}</h3>
+                        <h3 style={{fontSize: "14px", fontWeight: "400"}}>{offer.position}</h3>
                       </div>
                     </a>
                   </li>
