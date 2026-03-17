@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-job-offers-client-side-solution",
+    "id": "6c66fbd6-451a-470d-bd3f-b4ef87818fc1",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.20.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "spfx_job-offers description"
+      },
+      "longDescription": {
+        "default": "spfx_job-offers description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "spfx-job-offers Feature",
+        "description": "The feature that activates elements of the spfx-job-offers solution.",
+        "id": "e9cb24ec-c54b-4cad-984a-461807e2d316",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-job-offers.sppkg"
+  }
+}

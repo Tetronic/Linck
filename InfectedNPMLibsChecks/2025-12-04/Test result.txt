@@ -1,0 +1,5 @@
+Test executed on 04.12.2025 13:12: 
+
+findstr /i /G:../packages_aikido_infected_20251204.txt *.*
+
+=> no results found => no infected package found!

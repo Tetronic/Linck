@@ -1,0 +1,26 @@
+spfx-job-offers@0.0.1 C:\dev\Linck\SPFx_JobOffers
+├── @fluentui/react@8.125.2
+├── @microsoft/eslint-config-spfx@1.20.2
+├── @microsoft/eslint-plugin-spfx@1.20.2
+├── @microsoft/rush-stack-compiler-4.7@0.1.0
+├── @microsoft/sp-build-web@1.20.2
+├── @microsoft/sp-component-base@1.20.0
+├── @microsoft/sp-core-library@1.20.0
+├── @microsoft/sp-lodash-subset@1.20.0
+├── @microsoft/sp-module-interfaces@1.20.2
+├── @microsoft/sp-office-ui-fabric-core@1.20.0
+├── @microsoft/sp-property-pane@1.20.0
+├── @microsoft/sp-webpart-base@1.20.0
+├── @rushstack/eslint-config@4.0.1
+├── @types/react-dom@17.0.17
+├── @types/react@17.0.45
+├── @types/webpack-env@1.15.3
+├── ajv@6.12.6
+├── eslint-plugin-react-hooks@4.3.0
+├── eslint@8.57.0
+├── gulp@4.0.2
+├── react-dom@17.0.1
+├── react@17.0.1
+├── tslib@2.3.1
+└── typescript@4.7.4
+

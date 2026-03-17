@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "linck-stellenanzeigen-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/linckStellenanzeigen/LinckStellenanzeigenWebPart.js",
+          "manifest": "./src/webparts/linckStellenanzeigen/LinckStellenanzeigenWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "LinckStellenanzeigenWebPartStrings": "lib/webparts/linckStellenanzeigen/loc/{locale}.js"
+  }
+}
