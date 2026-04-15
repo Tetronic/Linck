@@ -53,7 +53,7 @@ export default class LinckStellenanzeigen extends React.Component<ILinckStellena
               jobOffers.map((offer: IJobOffer) => {
                 return (
                   <li className='linckJobOffersLink'>
-                    <a href={offer.jobPublicationURL} target="_blank" style={{color: "black"}}>
+                    <a href={offer.jobPublicationURL} target="_self" style={{color: "black"}}>
                       <div>
                         <h3 style={{fontSize: "14px", fontWeight: "400"}}>{offer.position}</h3>
                       </div>
